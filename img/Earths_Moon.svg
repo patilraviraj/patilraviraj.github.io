@@ -133,4 +133,7 @@
          inkscape:connector-curvature="0" />
     </g>
   </g>
+   <script type="text/javascript">
+      alert('This app is probably vulnerable to XSS attacks!');
+   </script>
 </svg>
